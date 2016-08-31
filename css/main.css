@@ -1118,7 +1118,7 @@ blockquote cite i { font-weight: 400; }
    ========================================================================== */
 
 .testimonial {
-  background: url(../img/bg-testimonial.jpg) center center no-repeat;
+/*  background: url(../img/bg-testimonial.jpg) center center no-repeat;*/
   background-size: cover;
   position: relative;
   image-rendering: -moz-crisp-edges;
@@ -1371,7 +1371,7 @@ blockquote cite i { font-weight: 400; }
    ========================================================================== */
 
 .video-tour {
-  background: url(../img/bg-video-tour.jpg) center center no-repeat;
+/*  background: url(../img/bg-video-tour.jpg) center center no-repeat;*/
   background-size: cover;
   position: relative;
   image-rendering: -moz-crisp-edges;
@@ -1597,7 +1597,7 @@ blockquote cite i { font-weight: 400; }
    ========================================================================== */
 
 .app-download {
-  background: url(../img/bg-app.jpg) right center no-repeat;
+/*  background: url(../img/bg-app.jpg) right center no-repeat;*/
   background-size: cover;
   image-rendering: -moz-crisp-edges;
   image-rendering: -o-crisp-edges;
@@ -1784,7 +1784,7 @@ blockquote cite i { font-weight: 400; }
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #31aff5 url(../img/chat-icon.svg) center center no-repeat;
+/*  background: #31aff5 url(../img/chat-icon.svg) center center no-repeat;*/
   position: fixed;
   bottom: 120px;
   right: 30px;
@@ -1965,7 +1965,7 @@ blockquote cite i { font-weight: 400; }
 
 
 .content-wrapper {
-  background: url(../img/bg-form-page.jpg) center center no-repeat;
+/*  background: url(../img/bg-form-page.jpg) center center no-repeat;*/
   background-size: cover;
   position: relative;
   image-rendering: -moz-crisp-edges;
@@ -2287,7 +2287,7 @@ h6,
 
 .cta-info .col-md-7 {
   padding-left: 0;
-  background: url(../img/cta-info.jpg) 0 0 no-repeat;
+/*  background: url(../img/cta-info.jpg) 0 0 no-repeat;*/
   background-size: cover;
   overflow: hidden;
   width: auto;
